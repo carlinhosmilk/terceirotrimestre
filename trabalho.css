@@ -19,6 +19,7 @@ body {
 }
 .imagens{
     width: 30%;
+    text-align: center;
 }
 header {
     background-color: #8a0303;
@@ -61,7 +62,4 @@ footer {
     padding: 1rem;
 }
 inicio{align-content: center;
-}
-.imagens{
-    text-align: center;
 }
