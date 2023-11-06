@@ -24,6 +24,7 @@ header {
     color: #e7d003;
     padding: 1rem;
     text-align: center;
+    background: linear-gradient(0deg, #504949 0%, #ffffff 100%);
 }
 
 nav ul {
