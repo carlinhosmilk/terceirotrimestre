@@ -15,6 +15,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background: linear-gradient(0deg, #504949 0%, #ffffff 100%);
 }
 .imagens{
     width: 30%;
@@ -24,7 +25,6 @@ header {
     color: #e7d003;
     padding: 1rem;
     text-align: center;
-    background: linear-gradient(0deg, #504949 0%, #ffffff 100%);
 }
 
 nav ul {
